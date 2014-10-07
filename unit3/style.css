@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url(images/background3.png)
+	background: url(images/background3.jpg)
 	background-image: url(images/stripes3.png)
 	background-size: cover;
 	background-position: center;
@@ -12,9 +12,4 @@ hr {
 }
 p {
 	font-size: 22px;
-}
-input {
-	boarder: 0;
-	padding: 10px;
-	font-size: 18px
 }
