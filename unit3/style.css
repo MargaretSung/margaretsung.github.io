@@ -10,6 +10,9 @@ body {
 	background-size: cover;
 	color:white;
 }
+section {
+	margin:200px 0 0 50px;
+}
 hr {
 	border:red 1px solid;
 	margin:10px 0 10px 0;
