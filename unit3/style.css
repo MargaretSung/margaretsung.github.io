@@ -7,11 +7,11 @@
 } */
 body {
 	background-image: url(images/background3.jpg);
-	backgound-size: cover;
+	background-size: cover;
 	color:white;
 }
 hr {
-	width: 200px	
+	width: 200px;	
 }
 p {
 	font-size: 22px;
