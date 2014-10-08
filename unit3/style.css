@@ -18,6 +18,8 @@ p {
 }
 .topBanner {
 	background:url(images/stripes3.png) repeat-x;
+	height:13px;
+	width:100%;
 	position:absolute;
 	left:0;
 	top:0;
