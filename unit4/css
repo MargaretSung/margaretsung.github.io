@@ -1,0 +1,24 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+h1 {
+	color:#333333;
+	font-family:Norican, script;
+	font-size: 100px
+}
+.teaflower {width: 70px;}
+p {
+	font-family: Ubuntu, sans-serif;
+	font-size: 30px;
+}
+header {
+	text-align: center;
+	margin-top: 300px;
+	position: center;
+}
+body {
+	background-image:url(images/fighalf.jpg);
+	margin-top: 200px;
+	background-size: 350px 350px;
+	background-position:center;
+}		
+
+	
