@@ -6,18 +6,24 @@ body {
 	/*margin-top: 200px;
 	background-size: 350px 350px;
 	background-position:center;*/
-}		
+}
+
 h1 {
-	color:#333333;
-	font-family:Norican, script;
-	font-size:100px
+	color: #E1DDDD;
+	font-family: Norican, script;
+	font-size: 100px;
+	text-shadow: -5px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+
 .teaflower {width:70px;}
+
 p {
-	font-family:Ubuntu, sans-serif;
+	font-family: Ubuntu, sans-serif;
 	font-size: 30px;
-	font-color:#fff;
+	color: #fff;
+	background: #781414;
 }
+
 header {
 	text-align:center;
 	margin-top:300px;
