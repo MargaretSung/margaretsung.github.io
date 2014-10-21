@@ -10,18 +10,18 @@ body {
 h1 {
 	color:#333333;
 	font-family:Norican, script;
-	font-size: 100px
+	font-size:100px
 }
-.teaflower {width: 70px;}
+.teaflower {width:70px;}
 p {
-	font-family: Ubuntu, sans-serif;
+	font-family:Ubuntu, sans-serif;
 	font-size: 30px;
-	font-color:#fff
+	font-color:#fff;
 }
 header {
-	text-align: center;
-	margin-top: 300px;
-	position: center;
+	text-align:center;
+	margin-top:300px;
+	position:center;
 }
 
 	
