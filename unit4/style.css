@@ -16,9 +16,10 @@ header {
 }
 body {
 	background-image:url(images/fighalf.jpg);
-	margin-top: 200px;
+	background-size:cover;
+	/*margin-top: 200px;
 	background-size: 350px 350px;
-	background-position:center;
+	background-position:center;*/
 
 
 
