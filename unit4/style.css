@@ -1,4 +1,12 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background-image:url(images/vintagetable21.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	/*margin-top: 200px;
+	background-size: 350px 350px;
+	background-position:center;*/
+}		
 h1 {
 	color:#333333;
 	font-family:Norican, script;
@@ -14,17 +22,5 @@ header {
 	margin-top: 300px;
 	position: center;
 }
-body {
-	background-image:url(images/vintagetable1.jpg);
-	background-size:cover;
-	background-repeat:no-repeat;
-	/*margin-top: 200px;
-	background-size: 350px 350px;
-	background-position:center;*/
-
-
-
-	
-}		
 
 	
